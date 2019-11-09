@@ -1,6 +1,7 @@
 ---
 layout: page
 title: DIY – UH-1H Huey Collective for simming
+permalink: /collective/
 ---
 
 
