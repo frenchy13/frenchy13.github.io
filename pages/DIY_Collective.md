@@ -1,3 +1,9 @@
+---
+layout: page
+title: DIY – UH-1H Huey Collective for simming
+---
+
+
 Hey Everyone.
 
 This started as a project where I built my own collective with the long term goal of selling a few. With university and work time constraints it was finally finished but I definitely didnt have time in the near future to make a product of a quality/finish I would be happy to sell. Therefor, because the Flight Sim community and in particular the guys at the  229th I thought I would share how I made it.  
