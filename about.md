@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Damien St Pierre and I'm just another average Aussie who enjoys the snow, travelling, sports and a being a bit of a nerd as well.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Best to use github or any of the favicons at the bottom
