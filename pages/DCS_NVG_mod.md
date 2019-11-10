@@ -28,7 +28,7 @@ Version 2.0.6
 – NATO and Russian NVG’s simulated with user controllable gain, noise/grain, size and ring thickness.  
 – Third iteration of my code development to simplify understanding and make more efficient.  
 – JSGME ready, just extract to your JSGME mod folder and then install with JSGME  
-– Download [**Here**]https://drive.google.com/open?id=0B1s7D5Bzv2DFc0ZBbFI0V1Bnb28)**
+– Download [**Here**](https://drive.google.com/open?id=0B1s7D5Bzv2DFc0ZBbFI0V1Bnb28)
 
 <iframe src="https://www.youtube.com/embed/bo6KyQYFCLk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
