@@ -32,8 +32,7 @@ Version 2.0.6
 
 <iframe src="https://www.youtube.com/embed/bo6KyQYFCLk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-## **Instructions  
-**
+## **Instructions**
 
 1\. Extract from .rar to JSGME mod folder  
 2\. Adjust variables in “JSGME MOD FOLDER\Frenchys NVG Mod 2.0.6\Bazar\shaders\common\MOD_nvg.hlsl” to change shape etc. You MUST change the variables before applying the mod in JSGME  
