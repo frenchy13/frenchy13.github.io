@@ -31,17 +31,17 @@ For the following aluminium parts just go to your local supplier, For Victoria, 
 
 – KP000 10mm self aligning pillow block ***2**           <span style="color: #000000;">[**10mm pillow block**](http://www.ebay.com.au/itm/10-mm-Self-Aligning-Pillow-Block-Ball-Bearing-KP000-Australian-Seller-/331328551127?pt=LH_DefaultDomain_15&hash=item4d24b878d7)    or      **[2 * KP000 Pillow block](http://www.ebay.com.au/itm/2pc-10mm-KP000-Mounted-Ball-Bearing-Block-KP-Serials-/281492884061?hash=item418a488a5d)**</span>
 
-[![](http://i763.photobucket.com/albums/xx274/taccca/229th/Huey%20Collective/Design/th_pillow%20block%20specks.jpg)](http://s763.photobucket.com/user/taccca/media/229th/Huey%20Collective/Design/pillow%20block%20specks.jpg.html) [![10mm Pillow block](http://damienstpierre.com/blog/wp-content/uploads/2016/02/10mm-Pillow-block-e1456144389955-150x150.jpg)](http://damienstpierre.com/blog/wp-content/uploads/2016/02/10mm-Pillow-block-e1456144389955.jpg)
+[![](http://damienstpierre.com/images/collective/th_pillow%20block%20specks.jpg)](http://damienstpierre.com/images/collective/pillow%20block%20specks.jpg.html) [![10mm Pillow block](http://damienstpierre.com/images/collective/10mm-Pillow-block-e1456144389955-150x150.jpg)](http://damienstpierre.com/images/collective/10mm-Pillow-block-e1456144389955.jpg)
 
 **Laser etched button panels:  
 **<span style="line-height: 1.5;">– 1.6mm to 2mm thick black anodized aluminium.</span> **[PDF FILE](http://www.damienstpierre.com/downloads/Collective%20Button%20Panels.pdf)** <span style="line-height: 1.5;">for etching company (cuts are in red, etching is in black, there is also external measurements)</span><span style="line-height: 1.5;">These are expensive in 1 off runs; for the 2 panels was $62 AUD the cheapest I found from</span> [**these great guys**](http://www.graphicengraving.com.au/contactus.htm)<span style="line-height: 1.5;"> in oz who would also do a run of 5 for roughly $30 per set. </span><span style="color: #000000; line-height: 1.5;">I got quotes from about 15 places and most wanted over $120 AUD just for one set.</span>
 
-[![Collective Head panels](http://damienstpierre.com/blog/wp-content/uploads/2016/02/Front-Panel-1-150x150.png)](http://damienstpierre.com/blog/wp-content/uploads/2016/02/Front-Panel-1.png)
+[![Collective Head panels](http://damienstpierre.com/images/collective/Front-Panel-1-150x150.png)](http://damienstpierre.com/images/collective/Front-Panel-1.png)
 
 **3D printed collective head boxes** (panels attached to front):  
 – The **[DOWNLOAD](http://www.damienstpierre.com/downloads/Collective_STLs.rar)** consists of two .stl files; one for the top box and one for the main box. The .stl files are a format designed for 3D printing software that can be used by pretty much every printing company world wide. To view the stl files you can download an stl viewer **[here](http://www.freestlview.com/)** or from my own server **[here](http://www.damienstpierre.com/downloads/STLView.rar)**
 
-[![UH-1h Collective - 3D model](http://damienstpierre.com/blog/wp-content/uploads/2016/02/Untitled1-150x150.jpg)](http://damienstpierre.com/blog/wp-content/uploads/2016/02/Untitled1.jpg) [![UH-1H collective head - partial assembly](http://damienstpierre.com/blog/wp-content/uploads/2016/02/IMG_1077-150x150.jpg)](http://damienstpierre.com/blog/wp-content/uploads/2016/02/IMG_1077.jpg)
+[![UH-1h Collective - 3D model](http://damienstpierre.com/images/collective/Untitled1-150x150.jpg)](http://damienstpierre.com/images/collective/Untitled1.jpg) [![UH-1H collective head - partial assembly](http://damienstpierre.com/images/collective/IMG_1077-150x150.jpg)](http://damienstpierre.com/images/collective/IMG_1077.jpg)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="paypal"><input name="cmd" type="hidden" value="_s-xclick">  
 <input name="hosted_button_id" type="hidden" value="EAGM479JS3URL">
