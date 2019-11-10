@@ -1,8 +1,8 @@
 ## **Introduction**
 
-This is an NVG mod I reworked for DCS World 1.5 and 2.0 to generate a realistic NVG effect instead of the stock effect. It is based on the work created Nrgized with the help of PeterP and few others from the eagle dynamic forums on this [thread](http://web.archive.org/web/20170224090301/http://forums.eagle.ru/showthread.php?t=100333) **(in future I will refer to this as Version 1)**. The rework was required since DCS 1.5 and above uses the new Eagle Dynamics Graphics Engine (EDGE) which is based on DirextX11 (DX11). Version 1 was coded using DX9 and was not compatible at all due to the significant changes, for the better, in the Higher Level Shading Language (HLSL).
+This is an NVG mod I reworked for DCS World 1.5 and 2.0 to generate a realistic NVG effect instead of the stock effect. It is based on the work created Nrgized with the help of PeterP and few others from the eagle dynamic forums on this [thread](http://forums.eagle.ru/showthread.php?t=100333) **(in future I will refer to this as Version 1)**. The rework was required since DCS 1.5 and above uses the new Eagle Dynamics Graphics Engine (EDGE) which is based on DirextX11 (DX11). Version 1 was coded using DX9 and was not compatible at all due to the significant changes, for the better, in the Higher Level Shading Language (HLSL).
 
-A quote of mine from the initial thread I started on the [Online 1st Cav Div](http://web.archive.org/web/20170224090301/http://1stcavdiv.conceptbb.com/) forums (online handle is Frenchy) can give some perspective on where I started skill wise in this endeavor. I want to emphasis I have no background in shader coding at all but all my maths studies at uni (some in writing code to calculate numerical solutions for 2nd order non linear differential equations for example) have given me a nice advantage.
+A quote of mine from the initial thread I started on the [Online 1st Cav Div](http://1stcavdiv.conceptbb.com/) forums (online handle is Frenchy) can give some perspective on where I started skill wise in this endeavor. I want to emphasis I have no background in shader coding at all but all my maths studies at uni (some in writing code to calculate numerical solutions for 2nd order non linear differential equations for example) have given me a nice advantage.
 
 > _Hey guys, Uni is finished for the year and this is number 1 on my to do list._
 > 
@@ -42,7 +42,7 @@ Version 2.0.6
 2 = NVG with Ring,  
 3 = NVG with ring and slight zoom (not functional)
 
-![NVG 2.0.4](http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/render-modes.jpg)
+![NVG 2.0.4](http://damienstpierre.com/images/render-modes.jpg)
 
 **Eye Size and position:**
 
@@ -112,7 +112,7 @@ NOTE: if using render mode 1 nvg will only be size of RInner. ie size = RInner(p
 – As per 2.0.4 DONT USE render mode 3, not implemented yet  
 – Adjust variables in “\Frenchys NVG Mod 2.0.5\Bazar\shaders\common\MOD_nvg.hlsl” to change shape etc.
 
-![NVG 2.0.5](http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/Screen_151109_233001.jpg)
+![NVG 2.0.5](http://damienstpierre.com/images/NVG/Screen_151109_233001.jpg)
 
 * * *
 
@@ -124,7 +124,7 @@ NOTE: if using render mode 1 nvg will only be size of RInner. ie size = RInner(p
 – As above DONT USE mode 3, not implemented yet  
 – Adjust variables in “\Frenchys NVG Mod 2.0.4\Bazar\shaders\common\MOD_nvg.hlsl” to change shape etc.
 
-![NVG 2.0.4](http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/render-modes.jpg)
+![NVG 2.0.4](http://damienstpierre.com/images/NVG/render-modes.jpg)
 
 * * *
 
@@ -135,9 +135,9 @@ NOTE: if using render mode 1 nvg will only be size of RInner. ie size = RInner(p
 – Adjust variables in “\Frenchys NVG Mod 2.0.3\Bazar\shaders\common\MOD_nvg.hlsl” to change shape etc.  
 – Minimal comments/instructions in code at the moment. Implementation is extremely similar to **V1.0…**
 
-![NVG 2.0.3 -1](http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/Screen_151105_131046.jpg)
+![NVG 2.0.3 -1](http://damienstpierre.com/images/NVG/Screen_151105_131046.jpg)
 
-![NVG 2.0.3 -2](http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/Screen_151105_131232.jpg)
+![NVG 2.0.3 -2](http://damienstpierre.com/images/NVG/Screen_151105_131232.jpg)
 
 * * *
 
@@ -150,7 +150,7 @@ NOTE: if using render mode 1 nvg will only be size of RInner. ie size = RInner(p
 – Adjust variables in “\Frenchys NVG Mod 2.0.2\Bazar\shaders\common\MOD_nvg.hlsl” to change shape etc.  
 – Minimal comments/instructions in code at the moment. Implementation is extremely similar to **V1.0…**
 
-![NVG 2.0.2](http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/shape-comparison.jpg)
+![NVG 2.0.2](http://damienstpierre.com/images/NVG/shape-comparison.jpg)
 
 * * *
 
@@ -164,6 +164,6 @@ NOTE: if using render mode 1 nvg will only be size of RInner. ie size = RInner(p
 – Lots of excess code, comments user variable parameters that currently have no effect.  
 – Mod includes a large wide view focus.png If you dont like it UNAPPLY the mod and delete “\Frenchys NVG Mod 2.0.1\Bazar\Effects\PostEffects\focus.png” or rename to anything else and mod will use stock NVG field of view native to DCS 1.5
 
-![NVG 2.0.1 -1](http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/campare-Nato-2.0.1.jpg)
+![NVG 2.0.1 -1](http://damienstpierre.com/images/NVG/compare-Nato-2.0.1.jpg)
 
-![NVG 2.0.1 -2](http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/campare-russian-2.0.1.jpg)
+![NVG 2.0.1 -2](http://damienstpierre.com/images/NVG/compare-russian-2.0.1.jpg)
