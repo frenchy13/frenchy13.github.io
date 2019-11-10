@@ -42,7 +42,7 @@ Version 2.0.6
 2 = NVG with Ring,  
 3 = NVG with ring and slight zoom (not functional)
 
-![NVG 2.0.4](http://damienstpierre.com/images/render-modes.jpg)
+![NVG 2.0.4](http://damienstpierre.com/images/NVG/render-modes.jpg)
 
 **Eye Size and position:**
 
