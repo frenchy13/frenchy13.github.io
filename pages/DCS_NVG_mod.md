@@ -22,10 +22,9 @@ Version 2.0.6
 – NATO and Russian NVG’s simulated with user controllable gain, noise/grain, size and ring thickness.  
 – Third iteration of my code development to simplify understanding and make more efficient.  
 – JSGME ready, just extract to your JSGME mod folder and then install with JSGME  
-– Download **[Here  
-](http://web.archive.org/web/20170224090301/https://drive.google.com/open?id=0B1s7D5Bzv2DFc0ZBbFI0V1Bnb28)**
+– Download **[Here  ]https://drive.google.com/open?id=0B1s7D5Bzv2DFc0ZBbFI0V1Bnb28)**
 
-<iframe src="http://web.archive.org/web/20170224090301if_/https://www.youtube.com/embed/bo6KyQYFCLk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube.com/embed/bo6KyQYFCLk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ## **Instructions  
 **
@@ -43,7 +42,7 @@ Version 2.0.6
 2 = NVG with Ring,  
 3 = NVG with ring and slight zoom (not functional)
 
-![NVG 2.0.4](http://web.archive.org/web/20170224090301im_/http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/render-modes.jpg)
+![NVG 2.0.4](http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/render-modes.jpg)
 
 **Eye Size and position:**
 
@@ -72,7 +71,7 @@ I personally prefer a thin ring and this mod is released as such but some real w
 
 ### **Version 2.0.6**
 
-– Download [**Here**](http://web.archive.org/web/20170224090301/https://drive.google.com/open?id=0B1s7D5Bzv2DFc0ZBbFI0V1Bnb28)  
+– Download [**Here**](https://drive.google.com/open?id=0B1s7D5Bzv2DFc0ZBbFI0V1Bnb28)  
 – Re coded noise and gain code to something I understand and a little simpler  
 – Added user controllable gain and noise settings
 
@@ -100,7 +99,7 @@ static const float RInner = 0.63f;
 
 ### **Version 2.0.5**
 
-– Download [**Here**](http://web.archive.org/web/20170224090301/https://drive.google.com/open?id=0B1s7D5Bzv2DFS2xHS1FMZTh1MDA)  
+– Download [**Here**](https://drive.google.com/open?id=0B1s7D5Bzv2DFS2xHS1FMZTh1MDA)  
 – Re coded lens, ring and overall mask equations. Neater code in my opinion  
 – Fixed laser mask issue (possibly discovered bug in DCS with regards to laser rendering – see black line on laser path outside NVG ring in picture below)  
 – Ring thickness now user controlled by adjustable parameters.
@@ -113,58 +112,58 @@ NOTE: if using render mode 1 nvg will only be size of RInner. ie size = RInner(p
 – As per 2.0.4 DONT USE render mode 3, not implemented yet  
 – Adjust variables in “\Frenchys NVG Mod 2.0.5\Bazar\shaders\common\MOD_nvg.hlsl” to change shape etc.
 
-![NVG 2.0.5](http://web.archive.org/web/20170224090301im_/http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/Screen_151109_233001.jpg)
+![NVG 2.0.5](http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/Screen_151109_233001.jpg)
 
 * * *
 
 ### **Version 2.0.4**
 
-– Download [**Here**](http://web.archive.org/web/20170224090301/https://drive.google.com/open?id=0B1s7D5Bzv2DFeVF3NEVaMWRZaWc)  
+– Download [**Here**](https://drive.google.com/open?id=0B1s7D5Bzv2DFeVF3NEVaMWRZaWc)  
 – Included render mode setting, sets which NVG type to use. 0 = full screen, 1 = NVG with no ring, 2 = NVG with Ring, 3 = NVG with ring and slight zoom (not functional)  
 – Render mode 2 is default.  
 – As above DONT USE mode 3, not implemented yet  
 – Adjust variables in “\Frenchys NVG Mod 2.0.4\Bazar\shaders\common\MOD_nvg.hlsl” to change shape etc.
 
-![NVG 2.0.4](http://web.archive.org/web/20170224090301im_/http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/render-modes.jpg)
+![NVG 2.0.4](http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/render-modes.jpg)
 
 * * *
 
 ### **Version 2.0.3**
 
-– Download [**Here**](http://web.archive.org/web/20170224090301/https://drive.google.com/open?id=0B1s7D5Bzv2DFeHZ2Rk1vTmhoT2s)  
+– Download [**Here**](https://drive.google.com/open?id=0B1s7D5Bzv2DFeHZ2Rk1vTmhoT2s)  
 – Include fade and ring at edge of lens, this is based off my own code and not Nrgizers. I understood what his code did but not how so I wrote my own version. It may not be the most efficient code??? but it works and I know how to troubleshoot it  
 – Adjust variables in “\Frenchys NVG Mod 2.0.3\Bazar\shaders\common\MOD_nvg.hlsl” to change shape etc.  
 – Minimal comments/instructions in code at the moment. Implementation is extremely similar to **V1.0…**
 
-![NVG 2.0.3 -1](http://web.archive.org/web/20170224090301im_/http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/Screen_151105_131046.jpg)
+![NVG 2.0.3 -1](http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/Screen_151105_131046.jpg)
 
-![NVG 2.0.3 -2](http://web.archive.org/web/20170224090301im_/http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/Screen_151105_131232.jpg)
+![NVG 2.0.3 -2](http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/Screen_151105_131232.jpg)
 
 * * *
 
 ### **Version 2.0.2**
 
-– Download [**Here**](http://web.archive.org/web/20170224090301/https://drive.google.com/open?id=0B1s7D5Bzv2DFbFpoSzQzUmNVbEk)  
+– Download [**Here**](https://drive.google.com/open?id=0B1s7D5Bzv2DFbFpoSzQzUmNVbEk)  
 – Added user controlled parametric mask for shape, size and center point of NVG lens.  
 – Removes reliance on mask.png  
 – Doesn’t include fade or ring at edge of lens, this will be the focus of the next release.  
 – Adjust variables in “\Frenchys NVG Mod 2.0.2\Bazar\shaders\common\MOD_nvg.hlsl” to change shape etc.  
 – Minimal comments/instructions in code at the moment. Implementation is extremely similar to **V1.0…**
 
-![NVG 2.0.2](http://web.archive.org/web/20170224090301im_/http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/shape-comparison.jpg)
+![NVG 2.0.2](http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/shape-comparison.jpg)
 
 * * *
 
 ### **Version 2.0.1**
 
-– Download [**Here**](http://web.archive.org/web/20170224090301/https://drive.google.com/open?id=0B1s7D5Bzv2DFR01ZN2ZmVTRpS1E)  
-– Updated Nrgizers mod [**here**](http://web.archive.org/web/20170224090301/http://forums.eagle.ru/showthread.php?t=100333) to DX11 standard  
+– Download [**Here**](https://drive.google.com/open?id=0B1s7D5Bzv2DFR01ZN2ZmVTRpS1E)  
+– Updated Nrgizers mod [**here**](http://forums.eagle.ru/showthread.php?t=100333) to DX11 standard  
 – JSMGE ready, just extract to your JSMGE folder.  
 – Achieves same color, intensity and noise effects as Nrgizers for BOTH NATO AND RUSSIAN NVG.  
 – Shape still relies on the focus.png file for mask, ring and size (main priority for next release is to have procedural mask user controls)  
 – Lots of excess code, comments user variable parameters that currently have no effect.  
 – Mod includes a large wide view focus.png If you dont like it UNAPPLY the mod and delete “\Frenchys NVG Mod 2.0.1\Bazar\Effects\PostEffects\focus.png” or rename to anything else and mod will use stock NVG field of view native to DCS 1.5
 
-![NVG 2.0.1 -1](http://web.archive.org/web/20170224090301im_/http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/campare-Nato-2.0.1.jpg)
+![NVG 2.0.1 -1](http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/campare-Nato-2.0.1.jpg)
 
-![NVG 2.0.1 -2](http://web.archive.org/web/20170224090301im_/http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/campare-russian-2.0.1.jpg)
+![NVG 2.0.1 -2](http://i763.photobucket.com/albums/xx274/taccca/229th/NVG%20mod/campare-russian-2.0.1.jpg)
