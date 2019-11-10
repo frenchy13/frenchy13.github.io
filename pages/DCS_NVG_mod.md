@@ -1,7 +1,6 @@
 ---
 layout: page
 title: DCS NVG Mod
-# permalink: /DCS_NVG/
 ---
 
 ## **Introduction**
