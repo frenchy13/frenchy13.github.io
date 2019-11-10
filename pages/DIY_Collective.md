@@ -68,8 +68,6 @@ For the following aluminium parts just go to your local supplier, For Victoria, 
 
 <input name="currency_code" type="hidden" value="AUD">  
 <input alt="PayPal — The safer, easier way to pay online." name="submit" src="https://www.paypalobjects.com/en_AU/i/btn/btn_cart_LG.gif" type="image">  
-![](https://www.paypalobjects.com/en_AU/i/scr/pixel.gif)
-
 </form>
 
 **<span style="color: #000000;">Buttons:</span>**  
@@ -148,7 +146,8 @@ Reference Images
 
 <input name="currency_code" type="hidden" value="AUD">  
 <input alt="PayPal — The safer, easier way to pay online." name="submit" src="https://www.paypalobjects.com/en_AU/i/btn/btn_cart_LG.gif" type="image">  
-![](https://www.paypalobjects.com/en_AU/i/scr/pixel.gif)
+</form>
+
 
 ## **REFERENCE MATERIAL**
 
@@ -156,4 +155,4 @@ Using a universal joint and hall effect sensors to make a joystick – [pdf guid
 
 DIY hall sensor mechanism thread – [thread link](http://simhq.com/forum/ubbthreads.php/topics/3225807/all/DIY_hall_sensor.html) by f15 sim
 
-</form>
+
