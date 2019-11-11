@@ -4,7 +4,7 @@ title: Criteria 2 - Understand the implications of different levels of digital t
 permalink: /criteria_2/
 ---
 
-----------------------------------------------------------------------------------------------------------
+****
 [Criteria 1](http://damienstpierre.com/criteria_1/)
 [Criteria 2](http://damienstpierre.com/criteria_2/)
 [Criteria 3](http://damienstpierre.com/criteria_3/)
@@ -14,7 +14,7 @@ permalink: /criteria_2/
 [Criteria 7](http://damienstpierre.com/criteria_7/)
 [Criteria 8](http://damienstpierre.com/criteria_8/)
 [Review](http://damienstpierre.com/criteria_review/)
-----------------------------------------------------------------------------------------------------------
+****
 
 It has been recognised for over 20 years that the introduction of a new digital
 tool does not change students outcomes (Simmt, 1997) in mathematics. Considering
@@ -118,7 +118,7 @@ knowledge.
     impeding further progress.
 
 
-----------------------------------------------------------------------------------------------------------
+****
 **References**
 
 Churches, A. (2010). Bloom’s digital taxonomy. Australian School Library
