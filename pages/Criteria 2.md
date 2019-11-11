@@ -47,7 +47,7 @@ exclusive or hierarchical in nature.
 
 ![](media/scdl.JPG)
 
-**Analysing and evaluating Desmo’s planned implementation (criteria 5) using
+**Analysing and evaluating Desmos' planned implementation (criteria 5) using
 SCDL**
 
 Surf/Play – Rather than passively receiving instruction students can and will
