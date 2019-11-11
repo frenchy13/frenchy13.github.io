@@ -50,7 +50,7 @@ exclusive or hierarchical in nature.
 
 ![](media/scdl.JPG)
 
-<sub><sup>Figure 1. *Redeveloped model of Reynolds (2016) SCDL framework* Developed by Joanne Blannin<sup><sub>
+<sub><sup>Figure 1. *Redeveloped model of Reynolds (2016) SCDL framework* Developed by Joanne Blannin</sup></sub>
 
 
 **Analysing and evaluating Desmos' planned implementation (criteria 5) using
