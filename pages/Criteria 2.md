@@ -14,6 +14,7 @@ permalink: /criteria_2/
 [Criteria 7](http://damienstpierre.com/criteria_7/)
 [Criteria 8](http://damienstpierre.com/criteria_8/)
 [Review](http://damienstpierre.com/criteria_review/)
+
 ****
 
 It has been recognised for over 20 years that the introduction of a new digital
