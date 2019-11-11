@@ -4,8 +4,6 @@ title: Criteria 2 - Understand the implications of different levels of digital t
 permalink: /criteria_2/
 ---
 
-
-Criteria 2 - Understand the implications of different levels of digital technology use on student learning
 ----------------------------------------------------------------------------------------------------------
 
 It has been recognised for over 20 years that the introduction of a new digital
