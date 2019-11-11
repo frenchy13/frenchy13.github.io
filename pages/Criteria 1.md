@@ -3,11 +3,9 @@ layout: page
 title: Criteria 1 - Critically appraise the use of digital technologies within a school context
 permalink: /criteria_1/
 ---
-
-Criteria 1 - Critically appraise the use of digital technologies within a school context
 ----------------------------------------------------------------------------------------
 
-*Desmo’s main function as a graphics calculator and digital geometry software
+##*Desmo’s main function as a graphics calculator and digital geometry software
 allows for multiple representation, which positively impacts learning.*
 
 Early research on the ability of graphic calculators to impact mathematics
