@@ -17,6 +17,7 @@ permalink: /criteria_2/
 
 ****
 
+
 It has been recognised for over 20 years that the introduction of a new digital
 tool does not change students outcomes (Simmt, 1997) in mathematics. Considering
 that, it is troubling teachers generally use digital tools in existing
@@ -46,7 +47,11 @@ breadth of activity common in the 21st century while recognising the
 interoperability and service they provide each other rather than being mutually
 exclusive or hierarchical in nature.
 
+
 ![](media/scdl.JPG)
+
+<sub><sup>Figure 1. *Redeveloped model of Reynolds (2016) SCDL framework* Developed by Joanne Blannin<sup><sub>
+
 
 **Analysing and evaluating Desmos' planned implementation (criteria 5) using
 SCDL**

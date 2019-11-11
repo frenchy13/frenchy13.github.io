@@ -3,7 +3,7 @@ layout: page
 title: Criteria 3 – Use research literature to evaluate technology resources and their usefulness in meeting individual student needs.
 permalink: /criteria_3/
 ---
--------------------------------------------------------------------------------------------------------------------------------
+****
 [Criteria 1](http://damienstpierre.com/criteria_1/)
 [Criteria 2](http://damienstpierre.com/criteria_2/)
 [Criteria 3](http://damienstpierre.com/criteria_3/)
@@ -13,7 +13,9 @@ permalink: /criteria_3/
 [Criteria 7](http://damienstpierre.com/criteria_7/)
 [Criteria 8](http://damienstpierre.com/criteria_8/)
 [Review](http://damienstpierre.com/criteria_review/)
--------------------------------------------------------------------------------------------------------------------------------
+
+****
+
 
 **Importance of differentiation**
 
@@ -35,7 +37,9 @@ learning outcomes is strong.
     outline how teachers can differentiate through content, process, product and
     environment.
 
+
 ![](media/aa3ae661afbb44a270222c7d72f55d0d.gif)
+
 
 **Differentiating with Desmos**
 
@@ -131,7 +135,7 @@ misconceptions, proactively addressing them and monitoring to ensure they are
 not responsible for a reduction in the efficacy of using Desmos.
 
 
-----------------------------------------------------------------------------------------------------------
+****
 **References**
 
 Banting, N., McCormick, K. K., Twitchell, G., & Harvey, S. (2017). Desmos Art.

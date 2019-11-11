@@ -3,7 +3,7 @@ layout: page
 title: Criteria 7 – Manage own and student privacy and safety in online environments.
 permalink: /criteria_7/
 ---
-----------------------------------------------------------------------------------------
+****
 [Criteria 1](http://damienstpierre.com/criteria_1/)
 [Criteria 2](http://damienstpierre.com/criteria_2/)
 [Criteria 3](http://damienstpierre.com/criteria_3/)
@@ -13,7 +13,9 @@ permalink: /criteria_7/
 [Criteria 7](http://damienstpierre.com/criteria_7/)
 [Criteria 8](http://damienstpierre.com/criteria_8/)
 [Review](http://damienstpierre.com/criteria_review/)
-----------------------------------------------------------------------------------------
+
+****
+
 
 **Desmos privacy and safety environment**
 
@@ -72,7 +74,7 @@ arise. Considering the learning and collaborative benefits and the low online
 risk associated with Desmos it is recommended as a classroom tool.
 
 
--------------------------------------------------------------------------------------------------------------------
+****
 **References**
 
 Elm, M. (2008). How do various notions of privacy influence decisions in

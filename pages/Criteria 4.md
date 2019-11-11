@@ -3,7 +3,7 @@ layout: page
 title: Criteria 4 – Make evidence-informed judgements when selecting digital technology resources.
 permalink: /criteria_4/
 ---
--------------------------------------------------------------------------------------------
+****
 [Criteria 1](http://damienstpierre.com/criteria_1/)
 [Criteria 2](http://damienstpierre.com/criteria_2/)
 [Criteria 3](http://damienstpierre.com/criteria_3/)
@@ -13,7 +13,9 @@ permalink: /criteria_4/
 [Criteria 7](http://damienstpierre.com/criteria_7/)
 [Criteria 8](http://damienstpierre.com/criteria_8/)
 [Review](http://damienstpierre.com/criteria_review/)
--------------------------------------------------------------------------------------------
+
+****
+
 
 **Classifying digital technology resources**
 
@@ -24,14 +26,18 @@ advances. While Desmos is a highly recommended/preferred tool in literature
 (Gulati, 2017; Liang, 2015; Montijo, 2018; Orr, 2017) Blooms taxonomy can be
 used to assess the suitability and importantly flexibility of digital tools.
 
+
 ![](media/f445ac14b449af563f064759805fcc13.png)
+
 
 As described in criteria 3, providing different tasks is not effective
 differentiation; being suitably attuned to students differing needs and
 responding to them as required is. This means that not all instruction should be
 focused on higher order thinking skills as learning is a process.
 
+
 ![](media/55d5d41832ca7a5365ccbcf0c99fce54.png)
+
 
 As such, Blooms digital taxonomy is useful in assessing the flexibility and
 usefulness of a digital to **all learners** at **all stages of the learning.**
@@ -74,7 +80,7 @@ for all learners (novice, capable and proficient) to help develop their
 understanding of mathematical functions and their graphical representations.
 
 
-----------------------------------------------------------------------------------------------------------
+****
 **References**
 
 Churches, A. (2010). Bloom’s digital taxonomy. Australian School Library

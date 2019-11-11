@@ -3,7 +3,7 @@ layout: page
 title: Criteria 1 - Critically appraise the use of digital technologies within a school context
 permalink: /criteria_1/
 ---
-----------------------------------------------------------------------------------------
+****
 [Criteria 1](http://damienstpierre.com/criteria_1/)
 [Criteria 2](http://damienstpierre.com/criteria_2/)
 [Criteria 3](http://damienstpierre.com/criteria_3/)
@@ -13,7 +13,9 @@ permalink: /criteria_1/
 [Criteria 7](http://damienstpierre.com/criteria_7/)
 [Criteria 8](http://damienstpierre.com/criteria_8/)
 [Review](http://damienstpierre.com/criteria_review/)
------------------------------------------------------------------------------------------------------
+
+****
+
 
 **Desmo’s main function as a graphics calculator and digital geometry software allows for multiple representation, which positively impacts learning.**
 

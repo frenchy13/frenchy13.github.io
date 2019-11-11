@@ -3,7 +3,7 @@ layout: page
 title: Criteria 8 – Reflect on planned use of digital technologies and anticipated student learning outcomes
 permalink: /criteria_8/
 ---
------------------------------------------------------------------------------------------------------
+****
 [Criteria 1](http://damienstpierre.com/criteria_1/)
 [Criteria 2](http://damienstpierre.com/criteria_2/)
 [Criteria 3](http://damienstpierre.com/criteria_3/)
@@ -13,7 +13,9 @@ permalink: /criteria_8/
 [Criteria 7](http://damienstpierre.com/criteria_7/)
 [Criteria 8](http://damienstpierre.com/criteria_8/)
 [Review](http://damienstpierre.com/criteria_review/)
------------------------------------------------------------------------------------------------------
+
+****
+
 
 **Initial thoughts**
 
@@ -94,7 +96,7 @@ student inquiry they unit of learning will be successful.
     contextual factors.
 
 
--------------------------------------------------------------------------------------------------------------------
+****
 **References**
 
 Dweck, C. (2015). Carol Dweck revisits the growth mindset. *Education Week*,

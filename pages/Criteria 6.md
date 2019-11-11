@@ -3,7 +3,7 @@ layout: page
 title: Criteria 6 – Plan for professional development and suggest resources and/or organisations that can provide support.
 permalink: /criteria_6/
 ---
--------------------------------------------------------------------------------------------------------------------
+****
 [Criteria 1](http://damienstpierre.com/criteria_1/)
 [Criteria 2](http://damienstpierre.com/criteria_2/)
 [Criteria 3](http://damienstpierre.com/criteria_3/)
@@ -13,7 +13,8 @@ permalink: /criteria_6/
 [Criteria 7](http://damienstpierre.com/criteria_7/)
 [Criteria 8](http://damienstpierre.com/criteria_8/)
 [Review](http://damienstpierre.com/criteria_review/)
--------------------------------------------------------------------------------------------------------------------
+****
+
 
 **Skills background**
 

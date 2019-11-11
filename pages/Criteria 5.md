@@ -3,7 +3,7 @@ layout: page
 title: Criteria 5 – Connect digital technologies research to a practical classroom setting.
 permalink: /criteria_5/
 ---
-----------------------------------------------------------------------------------------
+****
 [Criteria 1](http://damienstpierre.com/criteria_1/)
 [Criteria 2](http://damienstpierre.com/criteria_2/)
 [Criteria 3](http://damienstpierre.com/criteria_3/)
@@ -13,7 +13,9 @@ permalink: /criteria_5/
 [Criteria 7](http://damienstpierre.com/criteria_7/)
 [Criteria 8](http://damienstpierre.com/criteria_8/)
 [Review](http://damienstpierre.com/criteria_review/)
-----------------------------------------------------------------------------------------
+
+****
+
 
 **Learning Need**
 
@@ -77,7 +79,7 @@ Week 4
     Quadratic and circular function activities. Student driven image design
     draft which offers an atypical product to demonstrate learning
 
->   Week 5
+Week 5
 
 -   Desmos art final image: combines symbolic manipulation and computation with
     the skills of creation, planning, experimentation and others. Most students
@@ -118,7 +120,7 @@ Week 4
     can still access tasks if they have been absent from class.
 
 
-----------------------------------------------------------------------------------------------------------
+****
 **References**
 
 Banting, N., McCormick, K. K., Twitchell, G., & Harvey, S. (2017). Desmos Art.
