@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DCS NVG Mod
+title: Personalising Learning With Technology
 permalink: /assignment/
 ---
 
