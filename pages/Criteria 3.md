@@ -4,8 +4,6 @@ title: Criteria 3 – Use research literature to evaluate technology resources a
 permalink: /criteria_3/
 ---
 
-
-Criteria 3 – Use research literature to evaluate technology resources and their usefulness in meeting individual student needs.
 -------------------------------------------------------------------------------------------------------------------------------
 
 **Importance of differentiation**
@@ -122,6 +120,8 @@ understanding due to a restriction in available processes (single use software).
 As such, teachers need to be cognisant of these possible issues and
 misconceptions, proactively addressing them and monitoring to ensure they are
 not responsible for a reduction in the efficacy of using Desmos.
+
+----------------------------------------------------------------------------------------------------------
 
 Banting, N., McCormick, K. K., Twitchell, G., & Harvey, S. (2017). Desmos Art.
 *The Variable*, *2*(4), 25–28.

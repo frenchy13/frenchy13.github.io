@@ -4,8 +4,6 @@ title: Criteria 7 – Manage own and student privacy and safety in online enviro
 permalink: /criteria_7/
 ---
 
-
-Criteria 7 – Manage own and student privacy and safety in online environments.
 ------------------------------------------------------------------------------
 
 **Desmos privacy and safety environment**
@@ -63,3 +61,5 @@ teacher can be ignorant of the possible and must be vigilant of themselves,
 their students and implement student management policies as necessary if issues
 arise. Considering the learning and collaborative benefits and the low online
 risk associated with Desmos it is recommended as a classroom tool.
+
+-------------------------------------------------------------------------------------------------------------------

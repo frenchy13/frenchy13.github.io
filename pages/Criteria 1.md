@@ -5,7 +5,7 @@ permalink: /criteria_1/
 ---
 ----------------------------------------------------------------------------------------
 
-## *Desmo’s main function as a graphics calculator and digital geometry software allows for multiple representation, which positively impacts learning.*
+**Desmo’s main function as a graphics calculator and digital geometry software allows for multiple representation, which positively impacts learning.**
 
 Early research on the ability of graphic calculators to impact mathematics
 education within literature of the early 90’s by Penglase & Arnold (1996) showed
@@ -37,7 +37,7 @@ Ti-83 graphics calculators on mathematical achievement and student confidence in
 problem solving showed there was a significant statistical difference in favour
 of Desmos for both middle and high school students.
 
-## *Issues*
+**Issues**
 
 Chan & Leung’s (2014) showed DGS interventions less than 2 weeks in duration
 were least effective and may be the result of novelty effects of DGS rather than
@@ -84,7 +84,7 @@ did not incorporate digital technologies generally drew on the literature above
 recommending the incorporation of multiple representations as a solution to
 student’s difficulties without considering cognitive load.
 
-## *Conclusions*
+**Conclusions**
 
 When utilising graphics calculators and DGS to generate multiple representations
 consideration must be given to the number and purpose of representations used.

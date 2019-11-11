@@ -4,8 +4,6 @@ title: Criteria 5 – Connect digital technologies research to a practical class
 permalink: /criteria_5/
 ---
 
-
-Criteria 5 – Connect digital technologies research to a practical classroom setting.
 ------------------------------------------------------------------------------------
 
 **Learning Need**
@@ -109,6 +107,8 @@ Week 4
 -   Desmos does not have fixed timelines for completing tasks, all tasks are
     repeatable and can be done at students desired pace, furthermore, students
     can still access tasks if they have been absent from class.
+
+----------------------------------------------------------------------------------------------------------
 
 Banting, N., McCormick, K. K., Twitchell, G., & Harvey, S. (2017). Desmos Art.
 *The Variable*, *2*(4), 25–28.

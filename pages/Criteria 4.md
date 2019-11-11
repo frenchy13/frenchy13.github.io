@@ -4,9 +4,6 @@ title: Criteria 4 – Make evidence-informed judgements when selecting digital t
 permalink: /criteria_4/
 ---
 
-
-
-Criteria 4 – Make evidence-informed judgements when selecting digital technology resources.
 -------------------------------------------------------------------------------------------
 
 **Classifying digital technology resources**
@@ -66,6 +63,8 @@ It is clear from the literature, and brief analysis against blooms digital
 technology that Demsos is an incredibly flexible learning tool. It is suitable
 for all learners (novice, capable and proficient) to help develop their
 understanding of mathematical functions and their graphical representations.
+
+----------------------------------------------------------------------------------------------------------
 
 Churches, A. (2010). Bloom’s digital taxonomy. Australian School Library
 Association NSW Incorporated.

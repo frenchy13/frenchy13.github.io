@@ -4,7 +4,6 @@ title: Criteria 6 – Plan for professional development and suggest resources an
 permalink: /criteria_6/
 ---
 
-Criteria 6 – Plan for professional development and suggest resources and/or organisations that can provide support.
 -------------------------------------------------------------------------------------------------------------------
 
 **Skills background**
@@ -95,6 +94,8 @@ Present at end of year KLA PD day.
 
 I will revise time and resources allocated as a I develop an understanding of
 the Desmos activity builder in the weeks to come.
+
+-------------------------------------------------------------------------------------------------------------------
 
 DeRosa, D. (2018). How to Write a Powerful Professional Development Plan.
 Retrieved November 9, 2019, from

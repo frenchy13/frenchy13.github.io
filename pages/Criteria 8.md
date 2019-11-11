@@ -4,7 +4,6 @@ title: Criteria 8 – Reflect on planned use of digital technologies and anticip
 permalink: /criteria_8/
 ---
 
-Criteria 8 – Reflect on planned use of digital technologies and anticipated student learning outcomes
 -----------------------------------------------------------------------------------------------------
 
 **Initial thoughts**
@@ -84,6 +83,8 @@ student inquiry they unit of learning will be successful.
 -   I look forward to further developing my skills with Desmos and the activity
     builder to better meet the need of my learners as they develop or meet
     contextual factors.
+
+-------------------------------------------------------------------------------------------------------------------
 
 Dweck, C. (2015). Carol Dweck revisits the growth mindset. *Education Week*,
 *35*(5), 20–24.
