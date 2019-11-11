@@ -3,7 +3,7 @@ layout: page
 title: Criteria 7 – Manage own and student privacy and safety in online environments.
 permalink: /criteria_7/
 ---
-------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
 [Criteria 1](http://damienstpierre.com/criteria_1/)
 [Criteria 2](http://damienstpierre.com/criteria_2/)
 [Criteria 3](http://damienstpierre.com/criteria_3/)
@@ -71,4 +71,13 @@ their students and implement student management policies as necessary if issues
 arise. Considering the learning and collaborative benefits and the low online
 risk associated with Desmos it is recommended as a classroom tool.
 
+
 -------------------------------------------------------------------------------------------------------------------
+**References**
+
+Elm, M. (2008). How do various notions of privacy influence decisions in
+qualitative internet research?’. In A. Markham & N. Baym (Eds.), *Internet
+Inquiry: Conversations About Method* (pp. 69–87). Los Angeles: Sage.
+
+Office of the eSafety Commissioner, A. (2018). State of play—Youth, kids, and
+digital dangers. Australian Institute of Family Studies.

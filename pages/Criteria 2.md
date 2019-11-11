@@ -14,7 +14,7 @@ permalink: /criteria_2/
 [Criteria 7](http://damienstpierre.com/criteria_7/)
 [Criteria 8](http://damienstpierre.com/criteria_8/)
 [Review](http://damienstpierre.com/criteria_review/)
-----------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
 
 It has been recognised for over 20 years that the introduction of a new digital
 tool does not change students outcomes (Simmt, 1997) in mathematics. Considering
@@ -115,7 +115,9 @@ knowledge.
     during creation time to identify misconceptions or knowledge ceilings
     impeding further progress.
 
+
 ----------------------------------------------------------------------------------------------------------
+**References**
 
 Churches, A. (2010). Bloom’s digital taxonomy. Australian School Library
 Association NSW Incorporated.

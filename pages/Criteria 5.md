@@ -3,7 +3,7 @@ layout: page
 title: Criteria 5 – Connect digital technologies research to a practical classroom setting.
 permalink: /criteria_5/
 ---
-------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------
 [Criteria 1](http://damienstpierre.com/criteria_1/)
 [Criteria 2](http://damienstpierre.com/criteria_2/)
 [Criteria 3](http://damienstpierre.com/criteria_3/)
@@ -117,7 +117,9 @@ Week 4
     repeatable and can be done at students desired pace, furthermore, students
     can still access tasks if they have been absent from class.
 
+
 ----------------------------------------------------------------------------------------------------------
+**References**
 
 Banting, N., McCormick, K. K., Twitchell, G., & Harvey, S. (2017). Desmos Art.
 *The Variable*, *2*(4), 25–28.

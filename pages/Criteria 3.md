@@ -13,7 +13,7 @@ permalink: /criteria_3/
 [Criteria 7](http://damienstpierre.com/criteria_7/)
 [Criteria 8](http://damienstpierre.com/criteria_8/)
 [Review](http://damienstpierre.com/criteria_review/)
-----------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 
 **Importance of differentiation**
 
@@ -130,7 +130,9 @@ As such, teachers need to be cognisant of these possible issues and
 misconceptions, proactively addressing them and monitoring to ensure they are
 not responsible for a reduction in the efficacy of using Desmos.
 
+
 ----------------------------------------------------------------------------------------------------------
+**References**
 
 Banting, N., McCormick, K. K., Twitchell, G., & Harvey, S. (2017). Desmos Art.
 *The Variable*, *2*(4), 25–28.

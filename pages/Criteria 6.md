@@ -13,7 +13,7 @@ permalink: /criteria_6/
 [Criteria 7](http://damienstpierre.com/criteria_7/)
 [Criteria 8](http://damienstpierre.com/criteria_8/)
 [Review](http://damienstpierre.com/criteria_review/)
-----------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
 
 **Skills background**
 
@@ -104,7 +104,9 @@ Present at end of year KLA PD day.
 I will revise time and resources allocated as a I develop an understanding of
 the Desmos activity builder in the weeks to come.
 
+
 -------------------------------------------------------------------------------------------------------------------
+**References**
 
 DeRosa, D. (2018). How to Write a Powerful Professional Development Plan.
 Retrieved November 9, 2019, from

@@ -13,7 +13,7 @@ permalink: /criteria_8/
 [Criteria 7](http://damienstpierre.com/criteria_7/)
 [Criteria 8](http://damienstpierre.com/criteria_8/)
 [Review](http://damienstpierre.com/criteria_review/)
-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 
 **Initial thoughts**
 
@@ -93,7 +93,9 @@ student inquiry they unit of learning will be successful.
     builder to better meet the need of my learners as they develop or meet
     contextual factors.
 
+
 -------------------------------------------------------------------------------------------------------------------
+**References**
 
 Dweck, C. (2015). Carol Dweck revisits the growth mindset. *Education Week*,
 *35*(5), 20–24.

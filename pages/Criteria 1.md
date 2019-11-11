@@ -13,7 +13,7 @@ permalink: /criteria_1/
 [Criteria 7](http://damienstpierre.com/criteria_7/)
 [Criteria 8](http://damienstpierre.com/criteria_8/)
 [Review](http://damienstpierre.com/criteria_review/)
-----------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------
 
 **Desmo’s main function as a graphics calculator and digital geometry software allows for multiple representation, which positively impacts learning.**
 
@@ -117,7 +117,9 @@ must be accompanied by a significant investment in student familiarisation as
 shown by Gray & Thomas (2001) with the overall tool before focusing on
 individual mathematical learning outcomes.
 
+
 ----------------------------------------------------------------------------------------
+**References**
 
 Centre for Education Statistics and Evaluation. (2017). Cognitive load theory:
 Research that teachers really need to understand. Retrieved from

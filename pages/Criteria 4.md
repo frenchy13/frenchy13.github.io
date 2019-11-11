@@ -13,7 +13,7 @@ permalink: /criteria_4/
 [Criteria 7](http://damienstpierre.com/criteria_7/)
 [Criteria 8](http://damienstpierre.com/criteria_8/)
 [Review](http://damienstpierre.com/criteria_review/)
-----------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 
 **Classifying digital technology resources**
 
@@ -73,7 +73,9 @@ technology that Demsos is an incredibly flexible learning tool. It is suitable
 for all learners (novice, capable and proficient) to help develop their
 understanding of mathematical functions and their graphical representations.
 
+
 ----------------------------------------------------------------------------------------------------------
+**References**
 
 Churches, A. (2010). Bloom’s digital taxonomy. Australian School Library
 Association NSW Incorporated.
