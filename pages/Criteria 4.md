@@ -28,6 +28,7 @@ used to assess the suitability and importantly flexibility of digital tools.
 
 
 ![](media/f445ac14b449af563f064759805fcc13.png)
+
 <SPAN STYLE="font-size: 8pt"> Figure 1. *Map of Blooms Digital Taxonomy* (from Churches, 2010) </SPAN>
 
 
@@ -38,6 +39,7 @@ focused on higher order thinking skills as learning is a process.
 
 
 ![](media/55d5d41832ca7a5365ccbcf0c99fce54.png)
+
 <SPAN STYLE="font-size: 8pt"> Figure 2. *Blooms Learning Process* (from Churches, 2010) </SPAN>
 
 

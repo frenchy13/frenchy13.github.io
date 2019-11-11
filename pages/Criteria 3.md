@@ -39,6 +39,7 @@ learning outcomes is strong.
 
 
 ![](media/aa3ae661afbb44a270222c7d72f55d0d.gif)
+
 <SPAN STYLE="font-size: 8pt"> Figure 1. *Key Elements of Effective Differentiation* (from Tomlinson & Moon, 2013) </SPAN>
 
 
