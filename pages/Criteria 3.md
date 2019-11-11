@@ -39,6 +39,7 @@ learning outcomes is strong.
 
 
 ![](media/aa3ae661afbb44a270222c7d72f55d0d.gif)
+<SPAN STYLE="font-size: 8pt"> Figure 1. *Key Elements of Effective Differentiation* (from Tomlinson & Moon, 2013) </SPAN>
 
 
 **Differentiating with Desmos**
@@ -152,6 +153,9 @@ Orr, J. (2017). Function Transformations and the Desmos Activity Builder.
 
 Tomlinson, C. A. (2001). *How to Differentiate Instruction in Mixed-Ability
 Classrooms*. Alexandria: Pearson.
+
+Tomlinson, C. A., & Moon, T. R. (2013). *Assessment and Student Success in a
+Differentiated Classroom*. ASCD.
 
 Vygotsky, L. S. (1978). *Mind in society: the development of higher
 psychological processes*. (M. Cole, V. John-Steiner, S. Scribner, & E.
