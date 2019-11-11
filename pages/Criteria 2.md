@@ -48,7 +48,7 @@ interoperability and service they provide each other rather than being mutually
 exclusive or hierarchical in nature.
 
 
-![](media/scdl.JPG)
+![](media/scdl_framework.jpg)
 
 Figure 1. *Redeveloped model of Reynolds (2016) SCDL framework* Developed by Joanne Blannin
 
