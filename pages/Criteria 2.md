@@ -45,6 +45,8 @@ breadth of activity common in the 21st century while recognising the
 interoperability and service they provide each other rather than being mutually
 exclusive or hierarchical in nature.
 
+![](media/scdl.JPG)
+
 **Analysing and evaluating Desmo’s planned implementation (criteria 5) using
 SCDL**
 
