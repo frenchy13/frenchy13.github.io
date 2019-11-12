@@ -8,6 +8,8 @@ title: DCS NVG Mod
 
 ## **Introduction**
 
+![head_img](http://damienstpierre.com/images/NVG/nvg-mod-1170x550.jpg)
+
 This is an NVG mod I reworked for DCS World 1.5 and 2.0 to generate a realistic NVG effect instead of the stock effect. It is based on the work created Nrgized with the help of PeterP and few others from the eagle dynamic forums on this [thread](http://forums.eagle.ru/showthread.php?t=100333) **(in future I will refer to this as Version 1)**. The rework was required since DCS 1.5 and above uses the new Eagle Dynamics Graphics Engine (EDGE) which is based on DirextX11 (DX11). Version 1 was coded using DX9 and was not compatible at all due to the significant changes, for the better, in the Higher Level Shading Language (HLSL).
 
 A quote of mine from the initial thread I started on the [Online 1st Cav Div](http://1stcavdiv.conceptbb.com/) forums (online handle is Frenchy) can give some perspective on where I started skill wise in this endeavor. I want to emphasis I have no background in shader coding at all but all my maths studies at uni (some in writing code to calculate numerical solutions for 2nd order non linear differential equations for example) have given me a nice advantage.
