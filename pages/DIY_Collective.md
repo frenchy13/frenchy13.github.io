@@ -3,6 +3,8 @@ layout: page
 title: DIY – UH-1H Huey Collective for simming
 ---
 
+![Feature](http://damienstpierre.com/images/Collective/Collective-Feature.jpg)
+
 
 Hey Everyone.
 
@@ -153,5 +155,3 @@ Reference Images
 Using a universal joint and hall effect sensors to make a joystick – [pdf guide](http://www.damienstpierre.com/other/downloads/uni_stick.pdf) by Julian – [original](http://www.mycockpit.org/forums/content.php?r=88-Hall-Effects-Sensors-to-make-a-joystick)
 
 DIY hall sensor mechanism thread – [thread link](http://simhq.com/forum/ubbthreads.php/topics/3225807/all/DIY_hall_sensor.html) by f15 sim
-
-
