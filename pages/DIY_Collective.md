@@ -3,7 +3,7 @@ layout: page
 title: DIY – UH-1H Huey Collective for simming
 ---
 
-![Feature](http://damienstpierre.com/images/Collective/Collective-Feature.jpg)
+![Feature](http://damienstpierre.com/images/Collective/Collective-Featured.jpg)
 
 
 Hey Everyone.
