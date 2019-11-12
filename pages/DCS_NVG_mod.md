@@ -3,7 +3,7 @@ layout: page
 title: DCS NVG Mod
 ---
 
-![NVG Mod](http://damienstpierre.com/images/NVG/nvg-mod.jpg)
+![head_img](http://damienstpierre.com/images/NVG/nvg-mod.jpg)
 
 
 ## **Introduction**
