@@ -46,25 +46,15 @@ For the following aluminium parts just go to your local supplier, For Victoria, 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="paypal"><input name="cmd" type="hidden" value="_s-xclick">_
 <input name="hosted_button_id" type="hidden" value="EAGM479JS3URL">
-
 <table class="table table-hover">
-
 <tbody>
-
 <tr>
-
 <td><input name="on0" type="hidden" value="Donation Choice">Donation Choice</td>
-
 </tr>
-
 <tr>
-
 <td><select name="os0"><option value="I'm a student">I’m a student $10.00 AUD</option><option value="I'm working">I’m working $20.00 AUD</option><option value="I appreciate the time you put in">I appreciate the time you put in $40.00 AUD</option><option value="I game with a 40">I game with a 40″+ monitor $60.00 AUD</option></select></td>
-
 </tr>
-
 </tbody>
-
 </table>
 
 <input name="currency_code" type="hidden" value="AUD">  
@@ -137,27 +127,16 @@ Reference Images
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="paypal"><input name="cmd" type="hidden" value="_s-xclick">_  
 <input name="hosted_button_id" type="hidden" value="EAGM479JS3URL">
-
 <table class="table table-hover">
-
 <tbody>
-
 <tr>
-
 <td><input name="on0" type="hidden" value="Donation Choice">Donation Choice</td>
-
 </tr>
-
 <tr>
-
 <td><select name="os0"><option value="I'm a student">I’m a student $10.00 AUD</option><option value="I'm working">I’m working $20.00 AUD</option><option value="I appreciate the time you put in">I appreciate the time you put in $40.00 AUD</option><option value="I game with a 40">I game with a 40″+ monitor $60.00 AUD</option></select></td>
-
 </tr>
-
 </tbody>
-
 </table>
-
 <input name="currency_code" type="hidden" value="AUD">  
 <input alt="PayPal — The safer, easier way to pay online." name="submit" src="https://www.paypalobjects.com/en_AU/i/btn/btn_cart_LG.gif" type="image">  
 </form>
