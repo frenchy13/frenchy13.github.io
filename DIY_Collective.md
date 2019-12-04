@@ -113,11 +113,11 @@ Also special attention needs to be payed to which side the cut out is made to al
 
 AS ALWAYS MEASURE ONCE CUT TWICE ![Smile](http://illiweb.com/fa/i/smiles/icon_smile.gif) all images can be clicked on for full size
 
-[![](http://damienstpierre.com/images/Collective/Collective%20Design-1-2.jpg)](http://damienstpierre.com/images/Collective/Collective%20Design-1-2.jpg)
+[![](http://damienstpierre.com/images/Collective/Collective20Design-1-2.jpg)](http://damienstpierre.com/images/Collective/Collective20Design-1-2.jpg)
 
-[![](http://damienstpierre.com/images/Collective/Collective%20Design-2.jpg)](http://damienstpierre.com/images/Collective/Collective%20Design-2.jpg)
+[![](http://damienstpierre.com/images/Collective/Collective20Design-2.jpg)](http://damienstpierre.com/images/Collective/Collective20Design-2.jpg)
 
-[![](http://damienstpierre.com/images/Collective/Collective%20Design-3.jpg)](http://damienstpierre.com/images/Collective/Collective%20Design-3.jpg)
+[![](http://damienstpierre.com/images/Collective/Collective20Design-3.jpg)](http://damienstpierre.com/images/Collective/Collective20Design-3.jpg)
 
 Reference Images  
 [![](http://damienstpierre.com/images/Collective/ref/Collective-1.jpg)](http://damienstpierre.com/images/Collective/ref/S_Collective-1.jpg)
