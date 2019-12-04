@@ -30,7 +30,7 @@ For the following aluminium parts just go to your local supplier, For Victoria, 
 – Aluminium U channel W 100mm * H 50mm * T 6mm    160mm long  (3mm thickness will work as well, just need to be careful in construction. I was using interference fit bolts so went with 6mm to make sure they held)  
 – Aluminium right angle W 25mm * H 25mm * T 1.6mm    300mm long (will be cut down to numerous smaller parts as mounting brackets etc)
 
-– KP000 10mm self aligning pillow block ***2**           <span style="color: #000000;">[**10mm pillow block**](http://www.ebay.com.au/itm/10-mm-Self-Aligning-Pillow-Block-Ball-Bearing-KP000-Australian-Seller-/331328551127?pt=LH_DefaultDomain_15&hash=item4d24b878d7)    or      **[2 * KP000 Pillow block](http://www.ebay.com.au/itm/2pc-10mm-KP000-Mounted-Ball-Bearing-Block-KP-Serials-/281492884061?hash=item418a488a5d)**</span>
+– KP000 10mm self aligning pillow block **2**           <span style="color: #000000;">[**10mm pillow block**](http://www.ebay.com.au/itm/10-mm-Self-Aligning-Pillow-Block-Ball-Bearing-KP000-Australian-Seller-/331328551127?pt=LH_DefaultDomain_15&hash=item4d24b878d7)    or      **[2 * KP000 Pillow block](http://www.ebay.com.au/itm/2pc-10mm-KP000-Mounted-Ball-Bearing-Block-KP-Serials-/281492884061?hash=item418a488a5d)**</span>
 
 [![](http://damienstpierre.com/images/Collective/th_pillow%20block%20specks.jpg)](http://damienstpierre.com/images/Collective/pillow%20block%20specks.jpg.html) [![10mm Pillow block](http://damienstpierre.com/images/Collective/10mm-Pillow-block-e1456144389955-150x150.jpg)](http://damienstpierre.com/images/Collective/10mm-Pillow-block-e1456144389955.jpg)
 
@@ -44,7 +44,7 @@ For the following aluminium parts just go to your local supplier, For Victoria, 
 
 [![UH-1h Collective - 3D model](http://damienstpierre.com/images/Collective/Untitled1-150x150.jpg)](http://damienstpierre.com/images/Collective/Untitled1.jpg) [![UH-1H collective head - partial assembly](http://damienstpierre.com/images/Collective/IMG_1077-150x150.jpg)](http://damienstpierre.com/images/Collective/IMG_1077.jpg)
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="paypal"><input name="cmd" type="hidden" value="_s-xclick">  
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="paypal"><input name="cmd" type="hidden" value="_s-xclick">_
 <input name="hosted_button_id" type="hidden" value="EAGM479JS3URL">
 
 <table class="table table-hover">
@@ -99,7 +99,7 @@ get just the switch from here **[grayhill 04A 4way button](http://www.x-on.com.
 <span style="color: #000000;">– Protoboard                                            [**protoboard**](http://www.ebay.com.au/itm/10Pcs-DIY-Prototype-Paper-PCB-Universal-Experiment-Matrix-Circuit-Board-5x7cm-OK-/251730812866?hash=item3a9c535fc2)</span>
 
 <span style="color: #000000;">– 16 core rainbow ribbon **1m**                  **[ribbon cable](http://www.jaycar.com.au/Wire%2C-Cable-%26-Accessories/Communication-Cable/IDC/Rainbow-Cable-16-Core/p/WM4516)**</span>  
-<span style="color: #000000;">– 5*5*5mm rare earth magnet ***2**  [**rare earth magnets**](http://www.ebay.com.au/itm/27-Cube-Rare-Earth-Neodymium-Magnets-N50-5mm-x-5mm-x-5mm-/290916003382?hash=item43bbf1ee36)(its not a bad idea to get extra, these things are strong and disappear when stuck to tools etc, i also wouldn’t go any smaller)</span>
+<span style="color: #000000;">– 5*5*5mm rare earth magnet **2**  [**rare earth magnets**](http://www.ebay.com.au/itm/27-Cube-Rare-Earth-Neodymium-Magnets-N50-5mm-x-5mm-x-5mm-/290916003382?hash=item43bbf1ee36)(its not a bad idea to get extra, these things are strong and disappear when stuck to tools etc, i also wouldn’t go any smaller)</span>
 
 ## **PT 2 – Design**
 
@@ -120,9 +120,10 @@ AS ALWAYS MEASURE ONCE CUT TWICE ![Smile](http://illiweb.com/fa/i/smiles/icon_sm
 [![](http://damienstpierre.com/images/Collective/Collective%20Design-3.jpg)](http://damienstpierre.com/images/Collective/Collective%20Design-3.jpg)
 
 Reference Images  
-[![](http://damienstpierre.com/images/Collective/th_pillow%20block%20specks.jpg)](http://damienstpierre.com/images/Collective/pillow%20block%20specks.jpg) [![](http://damienstpierre.com/images/Collective/th_Collective-1091.jpg)](http://damienstpierre.com/images/Collective/Collective-1091.jpg) [![](http://damienstpierre.com/images/Collective/th_Collective-1093.jpg)](http://damienstpierre.com/images/Collective/Collective-1093.jpg) [![](http://damienstpierre.com/images/Collective/th_Collective-1095.jpg)](http://damienstpierre.com/images/Collective/Collective-1095.jpg) [![](http://damienstpierre.com/images/Collective/th_Collective-1098.jpg)](http://damienstpierre.com/images/Collective/Collective-1098.jpg)
+[![](http://damienstpierre.com/images/Collective/ref/Collective-1.jpg)](http://damienstpierre.com/images/Collective/ref/S_Collective-1.jpg)
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="paypal"><input name="cmd" type="hidden" value="_s-xclick">  
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="paypal"><input name="cmd" type="hidden" value="_s-xclick">_  
 <input name="hosted_button_id" type="hidden" value="EAGM479JS3URL">
 
 <table class="table table-hover">
