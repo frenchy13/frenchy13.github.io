@@ -70,9 +70,11 @@ RInner = % radius of circle where green NVG lens start to transition to black ri
 
 I personally prefer a thin ring and this mod is released as such but some real world users (thank you Giaco) recommend the following ring sizes (that you need to set yourself):
 
+```lua
 > static const float ROFade = 0.90f;  
 > static const float RMerge = 0.65f;  
 > static const float RInner = 0.63f;
+```
 
 ## **Release History**
 
@@ -87,17 +89,21 @@ NVG_NOISE = noise division value, larger value means less noise (3 for A10 and 4
 
 – Ring thickness now user controlled by adjustable parameters. (SAME AS 2.0.5)
 
+```lua
 ROFade = % radius of circle where black ring starts to fade out to regular view  
 RMerge = % radius of circle where black ring becomes 100% black on inside edge  
 RInner = % radius of circle where green NVG lens start to transition to black ring
+```
 
 NOTE1: if using render mode 1 nvg will only be size of RInner. ie size = RInner(percentage) * Eye_Size = actual size
 
 NOTE2: I personally prefer a thin ring and this mod is released as such but some real world users (thankyou Giaco) recommend ring sizes as follows (that you need to set yourself):
 
+```lua
 static const float ROFade = 0.90f;  
 static const float RMerge = 0.65f;  
 static const float RInner = 0.63f;
+```
 
 – As per 2.0.4 DONT USE render mode 3, not implemented yet (possibly never, personally not very interested in the effect since mouse clicking buttons don’t line up)  
 – Adjust variables in “\Frenchys NVG Mod 2.0.6\Bazar\shaders\common\MOD_nvg.hlsl” to change shape etc.
@@ -111,10 +117,12 @@ static const float RInner = 0.63f;
 – Fixed laser mask issue (possibly discovered bug in DCS with regards to laser rendering – see black line on laser path outside NVG ring in picture below)  
 – Ring thickness now user controlled by adjustable parameters.
 
+```lua
 ROFade = % radius of circle where black ring starts to fade out to regular view  
 RMerge = % radius of circle where black ring becomes 100% black on inside edge  
 RInner = % radius of circle where green NVG lens start to transition to black ring  
 NOTE: if using render mode 1 nvg will only be size of RInner. ie size = RInner(percentage) * Eye_Size = actual size
+```
 
 – As per 2.0.4 DONT USE render mode 3, not implemented yet  
 – Adjust variables in “\Frenchys NVG Mod 2.0.5\Bazar\shaders\common\MOD_nvg.hlsl” to change shape etc.
