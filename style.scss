@@ -13,6 +13,12 @@
 /* BASE RULES */
 /**************/
 
+*, *:before, *:after{
+    margin: 0;
+    padding: 0;
+    direction: ltr;
+    box-sizing: border-box;
+
 html {
   font-size: 100%;
 }
