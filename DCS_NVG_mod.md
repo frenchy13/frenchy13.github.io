@@ -12,15 +12,11 @@ This is an NVG mod I reworked for DCS World 1.5 and 2.0 to generate a realistic 
 
 A quote of mine from the initial thread I started on the [Online 1st Cav Div](http://1stcavdiv.conceptbb.com/) forums (online handle is Frenchy) can give some perspective on where I started skill wise in this endeavor. I want to emphasis I have no background in shader coding at all but all my maths studies at uni (some in writing code to calculate numerical solutions for 2nd order non linear differential equations for example) have given me a nice advantage.
 
-> _Hey guys, Uni is finished for the year and this is number 1 on my to do list._
->
-> _Spent all day breaking down the standard DCS NVG implementation and learning some basics of HLSL. Im now confident in how I need to go about making basic color and intensity changes._
->
-> _Ive just started looking into what this actual mod did and how. Will take me a little bit (next few days around work etc) to figure it all out but I think I will be able to achieve something similar 🙂 if not it will at least be stepping stones to getting close._
->
-> _My plan of attack is first and easiest (i think) should be the color/intensities. Next will be the noise (or lack thereof if the scene is bright) and then finally the zoom and ring._
->
-> _PS. I dont have the black shark so the A10 is my primary concern but once done i might get the blackshark and try to do that one as well._
+> Hey guys, Uni is finished for the year and this is number 1 on my to do list.
+Spent all day breaking down the standard DCS NVG implementation and learning some basics of HLSL. Im now confident in how I need to go about making basic color and intensity changes.
+Ive just started looking into what this actual mod did and how. Will take me a little bit (next few days around work etc) to figure it all out but I think I will be able to achieve something similar 🙂 if not it will at least be stepping stones to getting close.
+My plan of attack is first and easiest (i think) should be the color/intensities. Next will be the noise (or lack thereof if the scene is bright) and then finally the zoom and ring.
+PS. I dont have the black shark so the A10 is my primary concern but once done i might get the blackshark and try to do that one as well.
 
 Now that “few days” turned into a few weeks banging my head against a wall learning the intricacies of HLSL and decomposing the version 1 mod with no comments which overall wasn’t very clear or efficient.
 
