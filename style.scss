@@ -20,7 +20,7 @@ html {
 body {
 	background: $white;
   font: 0.8rem $helvetica;  //16px $helvetica
-  color: $darkGray;       //$darkGray
+  color: #777;       //$darkGray
 }
 
 .container {
@@ -34,7 +34,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $darkerGray;   //$darkerGray
+  color: #444;   //$darkerGray
   font-weight: bold;
 
   line-height: 1.7;
