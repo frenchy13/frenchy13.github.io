@@ -107,7 +107,10 @@ AS ALWAYS MEASURE ONCE CUT TWICE ![Smile](http://illiweb.com/fa/i/smiles/icon_sm
 [![](http://damienstpierre.com/images/Collective/Collective20Design-2-300x218.jpg)](http://damienstpierre.com/images/Collective/ref/Collective-14.jpg)
 [![](http://damienstpierre.com/images/Collective/Collective20Design-3-300x218.jpg)](http://damienstpierre.com/images/Collective/ref/Collective-15.jpg)
 
-Reference Images  
+Reference Images
+{% include image-gallery.html folder="/images/collective/ref" %}
+
+
 [![](http://damienstpierre.com/images/Collective/ref/S_Collective-1.jpg)](http://damienstpierre.com/images/Collective/ref/Collective-1.jpg)
 [![](http://damienstpierre.com/images/Collective/ref/S_Collective-2.jpg)](http://damienstpierre.com/images/Collective/ref/Collective-2.jpg)
 [![](http://damienstpierre.com/images/Collective/ref/S_Collective-3.jpg)](http://damienstpierre.com/images/Collective/ref/Collective-3.jpg)
