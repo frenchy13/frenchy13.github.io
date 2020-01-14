@@ -11,13 +11,13 @@ title: DCS NVG Mod
 This is an NVG mod I reworked for DCS World 1.5 and 2.0 to generate a realistic NVG effect instead of the stock effect. It is based on the work created Nrgized with the help of PeterP and few others from the eagle dynamic forums on this [thread](http://forums.eagle.ru/showthread.php?t=100333) **(in future I will refer to this as Version 1)**. The rework was required since DCS 1.5 and above uses the new Eagle Dynamics Graphics Engine (EDGE) which is based on DirextX11 (DX11). Version 1 was coded using DX9 and was not compatible at all due to the significant changes, for the better, in the Higher Level Shading Language (HLSL).
 
 A quote of mine from the initial thread I started on the [Online 1st Cav Div](http://1stcavdiv.conceptbb.com/) forums (online handle is Frenchy) can give some perspective on where I started skill wise in this endeavor. I want to emphasis I have no background in shader coding at all but all my maths studies at uni (some in writing code to calculate numerical solutions for 2nd order non linear differential equations for example) have given me a nice advantage.
-
-> Hey guys, Uni is finished for the year and this is number 1 on my to do list.
+```
+Hey guys, Uni is finished for the year and this is number 1 on my to do list.
 Spent all day breaking down the standard DCS NVG implementation and learning some basics of HLSL. Im now confident in how I need to go about making basic color and intensity changes.
 Ive just started looking into what this actual mod did and how. Will take me a little bit (next few days around work etc) to figure it all out but I think I will be able to achieve something similar 🙂 if not it will at least be stepping stones to getting close.
 My plan of attack is first and easiest (i think) should be the color/intensities. Next will be the noise (or lack thereof if the scene is bright) and then finally the zoom and ring.
 PS. I dont have the black shark so the A10 is my primary concern but once done i might get the blackshark and try to do that one as well.
-
+```
 Now that “few days” turned into a few weeks banging my head against a wall learning the intricacies of HLSL and decomposing the version 1 mod with no comments which overall wasn’t very clear or efficient.
 
 ## **Current Status**
@@ -32,9 +32,9 @@ Version 2.0.6
 
 ## **Instructions**
 
-1\. Extract from .rar to JSGME mod folder  
-2\. Adjust variables in “JSGME MOD FOLDER\Frenchys NVG Mod 2.0.6\Bazar\shaders\common\MOD_nvg.hlsl” to change shape etc. You MUST change the variables before applying the mod in JSGME  
-3\. Apply Mod in JSGME
+1. Extract from .rar to JSGME mod folder  
+2. Adjust variables in “JSGME MOD FOLDER\Frenchys NVG Mod 2.0.6\Bazar\shaders\common\MOD_nvg.hlsl” to change shape etc. You MUST change the variables before applying the mod in JSGME  
+3. Apply Mod in JSGME
 
 ### Variables Guide
 
@@ -60,11 +60,11 @@ NVG_NOISE = noise division value, larger value means less noise (3 for A10 and 4
 #### Ring Thickness  
 Note – if using render mode 1 nvg will only be size of RInner. ie size = RInner(percentage) * Eye_Size = actual size.
 
-```Lua
+
 ROFade = % radius of circle where black ring starts to fade out to regular view  
 RMerge = % radius of circle where black ring becomes 100% black on inside edge  
 RInner = % radius of circle where green NVG lens start to transition to black ring
-```
+
 
 I personally prefer a thin ring and this mod is released as such but some real world users (thank you Giaco) recommend the following ring sizes (that you need to set yourself):
 
@@ -87,17 +87,17 @@ NVG_NOISE = noise division value, larger value means less noise (3 for A10 and 4
 
 – Ring thickness now user controlled by adjustable parameters. (SAME AS 2.0.5)
 
-```lua
+
 ROFade = % radius of circle where black ring starts to fade out to regular view  
 RMerge = % radius of circle where black ring becomes 100% black on inside edge  
 RInner = % radius of circle where green NVG lens start to transition to black ring
-```
+
 
 NOTE1: if using render mode 1 nvg will only be size of RInner. ie size = RInner(percentage) * Eye_Size = actual size
 
 NOTE2: I personally prefer a thin ring and this mod is released as such but some real world users (thankyou Giaco) recommend ring sizes as follows (that you need to set yourself):
 
-```lua
+```Lua
 static const float ROFade = 0.90f;  
 static const float RMerge = 0.65f;  
 static const float RInner = 0.63f;
@@ -115,12 +115,12 @@ static const float RInner = 0.63f;
 – Fixed laser mask issue (possibly discovered bug in DCS with regards to laser rendering – see black line on laser path outside NVG ring in picture below)  
 – Ring thickness now user controlled by adjustable parameters.
 
-```lua
+
 ROFade = % radius of circle where black ring starts to fade out to regular view  
 RMerge = % radius of circle where black ring becomes 100% black on inside edge  
 RInner = % radius of circle where green NVG lens start to transition to black ring  
 NOTE: if using render mode 1 nvg will only be size of RInner. ie size = RInner(percentage) * Eye_Size = actual size
-```
+
 
 – As per 2.0.4 DONT USE render mode 3, not implemented yet  
 – Adjust variables in “\Frenchys NVG Mod 2.0.5\Bazar\shaders\common\MOD_nvg.hlsl” to change shape etc.
