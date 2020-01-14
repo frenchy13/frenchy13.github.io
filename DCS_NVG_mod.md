@@ -42,7 +42,7 @@ Version 2.0.6
 
 ### Variables Guide
 
-**Render Mode:**
+####Render Mode:
 
 0 = full screen,  
 1 = NVG with no ring,  
@@ -51,18 +51,18 @@ Version 2.0.6
 
 ![NVG 2.0.4](http://damienstpierre.com/images/NVG/render-modes.jpg)
 
-**Eye Size and position:**
+####Eye Size and position:
 
 EYE_CENTER = sets center point of NVG effect on screen as percentage of X and Y starting at bottom left corner. eg (0.5f, 0.655f) = 50% across and 65.5% up.  
 EYE_SIZE = Sets X and Y diameter of NVG as percentage of screen size. eg (0.47f, 0.75f) = 47% of width of screen and 75% of screen height. Since most monitors aren’t square the y value will have to be larger than the x value to make a perfect circle; the ratio between the two numbers will be the same as your monitor aspect ratio
 
-**Gain/Noise controls:**
+####Gain/Noise controls:
 
 NVG_LIFT = gain multiplication value (.10 for A10 and .08 for KA50 are good starting points)  
 NVG_NOISE = noise division value, larger value means less noise (3 for A10 and 4 for KA50 are good starting points)
 
-**Ring Thickness:  
-**Note – if using render mode 1 nvg will only be size of RInner. ie size = RInner(percentage) * Eye_Size = actual size.
+####Ring Thickness  
+Note – if using render mode 1 nvg will only be size of RInner. ie size = RInner(percentage) * Eye_Size = actual size.
 
 ROFade = % radius of circle where black ring starts to fade out to regular view  
 RMerge = % radius of circle where black ring becomes 100% black on inside edge  
