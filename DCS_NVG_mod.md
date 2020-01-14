@@ -64,16 +64,18 @@ NVG_NOISE = noise division value, larger value means less noise (3 for A10 and 4
 #### Ring Thickness  
 Note – if using render mode 1 nvg will only be size of RInner. ie size = RInner(percentage) * Eye_Size = actual size.
 
+```
 ROFade = % radius of circle where black ring starts to fade out to regular view  
 RMerge = % radius of circle where black ring becomes 100% black on inside edge  
 RInner = % radius of circle where green NVG lens start to transition to black ring
+```
 
 I personally prefer a thin ring and this mod is released as such but some real world users (thank you Giaco) recommend the following ring sizes (that you need to set yourself):
 
 ```lua
-> static const float ROFade = 0.90f;  
-> static const float RMerge = 0.65f;  
-> static const float RInner = 0.63f;
+static const float ROFade = 0.90f;  
+static const float RMerge = 0.65f;  
+static const float RInner = 0.63f;
 ```
 
 ## **Release History**
