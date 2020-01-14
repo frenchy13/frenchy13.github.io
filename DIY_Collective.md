@@ -108,7 +108,8 @@ AS ALWAYS MEASURE ONCE CUT TWICE ![Smile](http://illiweb.com/fa/i/smiles/icon_sm
 [![](http://damienstpierre.com/images/Collective/Collective20Design-3-300x218.jpg)](http://damienstpierre.com/images/Collective/ref/Collective-15.jpg)
 
 Reference Images
-{% include image-gallery.html folder="/images/collective/ref" %}
+
+{% include image-gallery.html folder="/images/Collective/ref" %}
 
 
 [![](http://damienstpierre.com/images/Collective/ref/S_Collective-1.jpg)](http://damienstpierre.com/images/Collective/ref/Collective-1.jpg)
