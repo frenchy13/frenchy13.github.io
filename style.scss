@@ -80,6 +80,7 @@ h4 {
 
 p {
   margin: 0 0 1.1rem;   //15px 0
+  text-rendering: optimizeLegibility;
 }
 
 pre{
@@ -121,13 +122,13 @@ blockquote:before,blockquote:after{
 }
 
 blockquote:before{
-    content: "\f10d";
+    content: '\201C';
     margin-right: 13px;
     right: 100%;
 }
 
 blockquote:after{
-    content: "\f10e";
+    content: '\201C';
     margin-left: 13px;
     left: 100%;
     top: auto;
