@@ -22,6 +22,7 @@ const CUSTOM = '__custom__';
 export default function GliderCalculator() {
   const [gliders, setGliders] = useState([]);
   const [loadState, setLoadState] = useState('loading');
+  const [loadError, setLoadError] = useState('');
   const [selectedId, setSelectedId] = useState(CUSTOM);
 
   const [manual, setManual] = useState(DEFAULT_POINTS);
@@ -43,8 +44,10 @@ export default function GliderCalculator() {
         setGliders(parsed);
         setLoadState(parsed.length ? 'ready' : 'empty');
       })
-      .catch(() => {
-        if (!cancelled) setLoadState('error');
+      .catch((err) => {
+        if (cancelled) return;
+        setLoadError(`${DATA_URL} — ${err.message}`);
+        setLoadState('error');
       });
     return () => {
       cancelled = true;
@@ -136,6 +139,8 @@ export default function GliderCalculator() {
         {loadState === 'error' && (
           <p className="note note-warn">
             Could not load the glider list. Enter points manually below.
+            <br />
+            <span className="mono">{loadError}</span>
           </p>
         )}
         {loadState === 'ready' && selected && (

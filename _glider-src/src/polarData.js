@@ -7,12 +7,10 @@ const MS_TO_KT = 1.9438445;
 
 export const SOURCE_NAMES = {
   IDA: 'Idaflieg',
-  DJ: 'Dick Johnson',
-  MD: 'Martin Dennis',
-  'MD+': 'Martin Dennis',
-  AG: 'Andrew Gough',
-  GB: 'George Bagnall',
-  real: 'Idaflieg',
+  DJ: 'DJ',
+  MD: 'Manufactures Data',
+  AG: 'Published in AG',
+  GB: 'GB',
 };
 
 export function expandSource(code) {

@@ -441,3 +441,9 @@
     padding: 0.4rem 0.3rem;
   }
 }
+
+.gsf .mono {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.78rem;
+  opacity: 0.85;
+}
